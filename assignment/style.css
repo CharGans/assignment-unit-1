@@ -1,9 +1,15 @@
 /* Add a background color to the header element */
-#heading-one{
+#header-colr{
     backGround-color: LightBlue;
-
 }
 
+#main-colr{
+    backGround-color: Pink;
+}
+
+#footer-colr{
+    backGround-color: MediumSeaGreen; 
+}
 /* Add a fun background color to the main element */
 
 /* Align the h1 containing your name in the center of the header*/
