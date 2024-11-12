@@ -8,9 +8,9 @@ let petType = 'Cat';
 let favoriteNumber = '8';
 
 //numbers (you can do math on numbers)//
-let temp = 25
+let temp = 25;
 
-temp = temp - 20
+temp = temp - 15;
 console.log(temp)
 
 //string concatenation//
